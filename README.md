@@ -27,8 +27,7 @@ This project aggregates data from multiple sources, processes API responses and 
 - **Matplotlib:** Used for creating static, high-quality plots.
 - **Plotly Express:** Used for generating interactive, web-based visualizations.
 
+![image](https://github.com/user-attachments/assets/66c37622-b5a4-4dac-b9d2-c3eae1c10a36)
+![image](https://github.com/user-attachments/assets/8e5bb410-77d0-4cd2-b52f-bc957d8871aa)
 ![image](https://github.com/user-attachments/assets/2f994656-12a0-49c2-8690-f790ec9a21c3)
 ![image](https://github.com/user-attachments/assets/ddb8d95a-6abe-43e9-9b1e-ca7aea69fa26)
-![image](https://github.com/user-attachments/assets/8e5bb410-77d0-4cd2-b52f-bc957d8871aa)
-![image](https://github.com/user-attachments/assets/a3892ea0-0f93-4072-99b7-3f4501d4b40a)
-
